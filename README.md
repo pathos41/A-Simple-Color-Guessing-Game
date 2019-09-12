@@ -1,5 +1,5 @@
 # A-Simple-Color-Guessing-Game
-A simple website for guessing colors in RGB format, with two different game mode: easy and hard.
+A simple website for guessing colors in RGB format, with two different game modes: easy and hard.
 
 There are 3 different colors to guess from for easy mode, while 6 to guess from for hard.
 
